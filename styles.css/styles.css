@@ -8,6 +8,7 @@ body {
     font-style: normal;
     background-color: #fff;
     height: 7200px;
+    letter-spacing: -1px;
 }
 
 .div {
@@ -28,9 +29,9 @@ h1 {
     height: 120px;
     font-size: 60px;
     line-height: 60px;
-    letter-spacing: -2px;
     font-weight: 400;
     color: #121212;
+    letter-spacing: -2px;
 }
 
 h2 {
@@ -41,7 +42,7 @@ h2 {
     margin-top: 30px;
     width: 1150px;
     height: 500px;
-    background-image: url(resorces/Rectangle\ 1.png);
+    background-image: url(../resorces/Rectangle\ 1.png);
 }
 
 .text_inside_photo {
@@ -50,7 +51,6 @@ h2 {
     font-size: 20px;
     line-height: normal;  
     font-weight: 400;
-    letter-spacing: -2px;
     color: #FFF;
     padding: 379px 680px 40px 40px;
 }
@@ -64,7 +64,6 @@ h2 {
 .info_us {
     width: 51px;
     height: 25px;
-    letter-spacing: -2px;
     color: #121212;
     font-size: 18px;
 
@@ -75,8 +74,8 @@ h2 {
     height: 366px;
     font-size: 45px;
     line-height: normal;
-    letter-spacing: -2px;
     margin: 30px 0 0 3px;
+    letter-spacing: -2px;
 }
 
 .button_chek_services {
@@ -91,7 +90,6 @@ h2 {
     cursor: pointer;
     font-size: 20px;
     line-height: 100%;
-    letter-spacing: -2px;
     text-decoration: none;
     text-align: center;
     padding-top: 20px;
@@ -106,7 +104,6 @@ h2 {
     font-size: 18px;
     height: 25px;
     line-height: 100%;
-    letter-spacing: -2px;
     color: #121212;
 }
 
@@ -126,15 +123,14 @@ h2 {
     height: 41px;
     font-size: 30px;
     line-height: 100%;
-    letter-spacing: -2px;
     color: #121212;
+    letter-spacing: -2px;
 }
 .item_project a {
     margin-top: 15px;
     margin-left: 2px;
     font-size: 20px;
     line-height: 100%;
-    letter-spacing: -2px;
     color: #AD1818;
     text-decoration: none;
 }
@@ -145,7 +141,6 @@ h2 {
     text-decoration: none;
     font-size: 30px;
     line-height: 153px;
-    letter-spacing: -2px;
     color: #AD1818;
     border: 1px solid;
     height: 153px;
@@ -178,7 +173,6 @@ h2 {
     color: #fff;
     font-size: 18px;
     line-height: 100%;
-    letter-spacing: -2px;
 }
 
 .item_services {
@@ -190,8 +184,8 @@ h2 {
     color: #fff;
     font-size: 30px;
     line-height: 100%;
-    letter-spacing: -2px;
     height: 41px;
+    letter-spacing: -2px;
 }
 
 .item_services {
@@ -203,7 +197,6 @@ h2 {
     color: #fff;
     font-size: 30px;
     line-height: 100%;
-    letter-spacing: -2px;
     height: 41px;
 }
 
@@ -238,7 +231,6 @@ h2 {
 
     font-size: 18px;
     line-height: 100%;
-    letter-spacing: -2px;
     color: #121212;
 }
 
@@ -260,7 +252,7 @@ h2 {
 .double_room {
     height: 100%;
     width: 100%;
-    background-image: url(resorces/проект_комнаты.png);
+    background-image: url(../resorces/проект_комнаты.png);
     background-size: cover;
     background-position: 50%;
     padding-top: 858px;
@@ -273,8 +265,8 @@ h2 {
     height: 82px;
     font-size: 30px;
     line-height: normal;
-    letter-spacing: -2px;
     color: #fff;
+    letter-spacing: -1px;
 }
 
 .info_phone_mail {
@@ -293,7 +285,6 @@ h2 {
 .contact h2 {
     font-size: 18px;
     line-height: 100%;
-    letter-spacing: -2px;
 }
 
 .contact:before {
@@ -304,7 +295,7 @@ h2 {
     height: 22px;
     bottom: calc(100% + 13px);
 
-    background-image: url(resorces/иконка_phone.png);
+    background-image: url(../resorces/иконка_phone.png);
     background-size: cover;
     background-position: 50%;
 }
@@ -323,7 +314,6 @@ h2 {
     text-decoration: none;
     font-size: 60px;
     line-height: 60px;
-    letter-spacing: -2px;
 }
 
 .contact_mail {
@@ -339,7 +329,6 @@ h2 {
     opacity: 0.5;
     font-size: 60px;
     line-height: 60px;
-    letter-spacing: -2px;
     border-bottom: 2px solid #121212;
     padding-bottom: 3px;
 
@@ -360,7 +349,6 @@ h2 {
 
     font-size: 18px;
     line-height: normal;
-    letter-spacing: -0.03em;
 }
 .info_navigation_about {
     margin-right: 53px;
@@ -405,7 +393,6 @@ h2 {
     height: 25px;
     font-size: 20px;
     line-height: 100%;
-    letter-spacing: -2px;
     color: #fff;
     opacity: 0.5;
     padding-top: 87px;
